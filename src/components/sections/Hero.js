@@ -46,7 +46,7 @@ const Hero = ({
     >
       <div className="container-sm">
         <div className={innerClasses}>
-          <div className="hero-content" id="About">
+          <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               Algorithm<span className="text-color-primary">Visualiser</span>
             </h1>
@@ -56,7 +56,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="#">
+                  <Button tag="a" color="primary" wideMobile href="#Algorithms">
                     View Algorithms
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="#">

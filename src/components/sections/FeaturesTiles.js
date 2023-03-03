@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    <a href = "#">
+                    <a href = "https://sortingvisualiser.vercel.app/">
                     Sorting
                     </a>
                     </h4>
@@ -143,7 +143,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    <a href = "#">
+                    <a href = "https://nqueen-visualizer.vercel.app/">
                     Backtracking
                     </a>
                     </h4>
@@ -191,7 +191,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    <a href = "#">
+                    <a href = "https://seive-algorithm.vercel.app/">
                     Prime number's algorithm
                     </a>
                     </h4>
